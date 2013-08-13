@@ -1,0 +1,15 @@
+OPTI_GTK_OBJFILES=$(BUILD_OBJ_DIR)/Main.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/MainWindow.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/AboutDialog.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/MachineListViewWithPopup.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/MachineListScrolledWindow.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/NewMachineDialog.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/ErrorDialog.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/SerialConsole.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/SoftKeyboard.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/MachineScreen.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/PrefsDialog.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/PartitionTable.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/PartitionView.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/AdvComboBoxText.o.opti
+OPTI_GTK_OBJFILES+=$(BUILD_OBJ_DIR)/ProgressDialog.o.opti

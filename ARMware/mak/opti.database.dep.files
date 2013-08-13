@@ -1,0 +1,1 @@
+OPTI_DATABASE_DEP_OBJFILES=$(BUILD_OBJ_DIR)/DatabaseDep.o.opti
